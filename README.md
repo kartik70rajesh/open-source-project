@@ -67,8 +67,6 @@ Requires Python 3.x and nothing but standard Python libraries.
 Run the py file in cmd
 
 ## to play
-## to play
-
 To download the game:
 
     git clone https://github.com/kartik70rajesh/open-source-project.git
