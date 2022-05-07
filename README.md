@@ -1,4 +1,4 @@
-# PYTHON MINI GAMES
+# open-source-project
 
 ## Group members
 
@@ -9,24 +9,24 @@
 5. Spurthi H M              -   2021mt93070
 
 
----
+=======
 
-# 1. Number guessing game
+# Number guessing game
 
 ## How to run
 Requires Python 3.x and nothing but standard Python libraries.
 Run the py file in cmd
 
-## To play
+## to play
 
-    To download the game:
+To download the game:
 
-        git clone https://github.com/kartik70rajesh/open-source-project.git
-        cd open-source-project/NumberGuessingGame
+    git clone https://github.com/kartik70rajesh/open-source-project.git
+    cd open-source-project/NumberGuessingGame
 
-    To play a random game:
+To play a random game:
 
-        python.exe GuessTheNumber.py
+    python.exe GuessTheNumber.py
 
 ## What is the Guessing Game?
 The game is called "Guess the Number". The program thinks of an integer within a known range. The player tries to guess the number. If the guess is incorrect, then the program tells the  player whether the guess was too high or too low. Eventually, the player guesses the correct number. The player's score equals the number of guesses he made.
@@ -39,3 +39,23 @@ Here is the basic demonstration of python number guessing game. In this game cor
 
 ![image](https://user-images.githubusercontent.com/98651685/167257822-1821402c-8c52-422b-9ea1-b7c19250d4c3.png)
 
+# Memory - Puzzle Pair Game
+
+## How to run
+Requires Python 3.x and nothing but standard Python libraries.
+Run the py file in cmd
+
+## to play
+
+To download the game:
+
+    git clone https://github.com/kartik70rajesh/open-source-project.git
+    cd open-source-project/Memory Game.py
+
+To play a random game:
+
+    python.exe Memory Game.py
+
+## How to play Memory - Puzzle Pair Game
+
+Players take it in turn to pick two cards of their choosing. If the cards have the same rank (two sixes, for example), the player keeps the pair and plays again. If not, the cards are returned to their face-down position and it's the next person's turn. Play until all the cards have been matched
