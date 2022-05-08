@@ -115,5 +115,4 @@ Cheeky Face: If you double-click it, then it will show its tongue to you.
 Sad Face: If you ignore it then it will become sad and the point where you click then it will become happy again.
   
 =======
->>>>>>> upstream/main
->>>>>>> upstream/main
+
